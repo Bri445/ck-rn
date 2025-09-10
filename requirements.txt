@@ -1,5 +1,5 @@
-streamlit
 requests
 click
 loguru
 pydantic
+streamlit
